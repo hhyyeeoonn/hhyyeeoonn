@@ -1,1 +1,1 @@
-hy.gitbub.io
+github.io
